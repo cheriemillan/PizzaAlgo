@@ -1,5 +1,7 @@
 1. Order from Angela's
+1a. Choose whenever to pick up or delivery
 2. Pick what type of crust
 3. Pick what type of toppings
 4. Pick what type of cheese and sauce
 5. Final decision: Chiptole Chicken pizza
+
