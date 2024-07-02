@@ -1,2 +1,5 @@
-1. Decide which business to order from
-2. Decide which type of pizza to order
+1. Order from Angela's
+2. Pick what type of crust
+3. Pick what type of toppings
+4. Pick what type of cheese and sauce
+5. Final decision: Chiptole Chicken pizza
